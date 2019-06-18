@@ -1,0 +1,163 @@
+@font-face {
+  font-family: 'DKPoolsIconset';
+  src: url('../fonts/DKPoolsIconset.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'DKPoolsIconset' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hat---1-copy:before {
+  content: "\e91f";
+}
+
+.icon-hat---2-copy:before {
+  content: "\e920";
+}
+
+.icon-hat---3-copy:before {
+  content: "\e921";
+}
+
+.icon-hat---1:before {
+  content: "\e919";
+}
+
+.icon-hat---2:before {
+  content: "\e91d";
+}
+
+.icon-hat---3:before {
+  content: "\e91e";
+}
+
+.icon-jersey3:before {
+  content: "\e91b";
+}
+
+.icon-tennis3:before {
+  content: "\e91a";
+}
+
+.icon-jersey2:before {
+  content: "\e91c";
+}
+
+.icon-jersey:before {
+  content: "\e918";
+}
+
+.icon-friend-invite-24:before {
+  content: "\e917";
+}
+
+.icon-lock-icon:before {
+  content: "\e90e";
+}
+
+.icon-Check---Green .path1:before {
+  content: "\e911";
+  color: rgb(5, 5, 5);
+}
+
+.icon-Check---Green .path2:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(126, 211, 33);
+}
+
+.icon-X---Grey .path1:before {
+  content: "\e915";
+  color: rgb(5, 5, 5);
+}
+
+.icon-X---Grey .path2:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(191, 191, 191);
+}
+
+.icon-check-selected:before {
+  content: "\e910";
+}
+
+.icon-recent-icon:before {
+  content: "\e912";
+}
+
+.icon-jersey-zero:before {
+  content: "\e913";
+}
+
+.icon-check-not-selected:before {
+  content: "\e90f";
+}
+
+.icon-arrow:before {
+  content: "\e90b";
+}
+
+.icon-clock:before {
+  content: "\e90c";
+}
+
+.icon-live:before {
+  content: "\e90d";
+}
+
+.icon-alert:before {
+  content: "\e908";
+}
+
+.icon-radio-selected:before {
+  content: "\e909";
+}
+
+.icon-radio-not-selected:before {
+  content: "\e90a";
+}
+
+.icon-circle-check-stroke:before {
+  content: "\e907";
+}
+
+.icon-circle-check:before {
+  content: "\e900";
+}
+
+.icon-info:before {
+  content: "\e901";
+}
+
+.icon-circle-x:before {
+  content: "\e902";
+}
+
+.icon-dot:before {
+  content: "\e906";
+}
+
+.icon-avatar:before {
+  content: "\e903";
+}
+
+.icon-entry-bubble-icon:before {
+  content: "\e904";
+}
+
+.icon-money-bag:before {
+  content: "\e905";
+}

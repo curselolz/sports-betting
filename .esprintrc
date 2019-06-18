@@ -1,0 +1,12 @@
+{
+    "paths": [
+        "server/**/*.js",
+        "client/**/*.js",
+        "kambi/**/*.js",
+        "webpack.config.*.js"
+    ],
+    "ignored": [
+        "**/node_modules/**/*",
+        ".build/*.js"
+    ]
+}

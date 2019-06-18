@@ -1,0 +1,45 @@
+//
+// MIXINS
+//
+
+@mixin small-mobile {
+  @media (max-width: $xx-small) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: $small) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (max-width: $medium) {
+    @content;
+  }
+}
+
+@mixin small-desktop {
+  @media (max-width: $large) {
+    @content;
+  }
+}
+
+@mixin large-desktop {
+  @media (min-width: $large + 1px) {
+    @content;
+  }
+}
+
+@mixin kambi-betslip {
+  @media (max-width: $kambi-betslip-breakpoint) {
+    @content;
+  }
+}
+
+@mixin kambi-betslip-standalone {
+  @media (max-width: $kambi-standalone-betslip-breakpoint) {
+    @content;
+  }
+}

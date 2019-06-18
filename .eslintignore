@@ -1,0 +1,10 @@
+node_modules/**
+.build/**
+
+# ES5 config/runner files
+scripts/getVersion
+scripts/version
+
+# static and minified files
+server/static/**
+server/assets/**
